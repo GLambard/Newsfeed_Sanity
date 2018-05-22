@@ -2,8 +2,14 @@
 A simple and sane newsfeed for m.phys.org - or how to quickly recommend the best topics
 
 ## Requirements
-
-
+* pandas
+* numpy
+* bs4
+* cython
+* gensim
+* scipy
+* webbrowser
+* jupyterlab
 * https://code.google.com/archive/p/word2vec/ (download: GoogleNews-vectors-negative300.bin)
 
 ## Goal
