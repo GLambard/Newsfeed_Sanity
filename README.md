@@ -1,6 +1,11 @@
 # Newsfeed_Sanity
 A simple and sane newsfeed for m.phys.org - or how to quickly recommend the best topics
 
+## Requirements
+
+
+* https://code.google.com/archive/p/word2vec/ (download: GoogleNews-vectors-negative300.bin)
+
 ## Goal
 During the last few years, I was spending much time to read once per week the newsfeed from http://m.phys.org. That's a good exercise for keeping touch with the latest advancements in Science. But with the drawback that it's taking time, a lot of time, and mainly because I had to go through a long list of different topics that I didn't need. Also, I needed a newsfeeder (recommander) which respects my tastes without having to go through undesired proposals.
 
